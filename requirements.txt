@@ -1,0 +1,5 @@
+pynbody
+pandas
+astropy
+spectral_cube
+numpy

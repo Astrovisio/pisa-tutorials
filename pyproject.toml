@@ -1,0 +1,12 @@
+[project]
+name = "pisa-tutorials"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "astropy>=6.1.7",
+    "pandas>=2.3.0",
+    "pynbody>=2.0.0",
+    "spectral-cube>=0.6.6",
+]
