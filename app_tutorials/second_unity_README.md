@@ -22,7 +22,7 @@ Before launching Astrovisio Client, make sure the following components are insta
 - **Meta Quest Link** (optional)  
   Required **only** if you intend to use the application in **VR mode**.  
   You can download Meta Quest Link here:  
-  👉 [https://www.meta.com/quest/setup/](https://www.meta.com/quest/setup/)
+  [https://www.meta.com/quest/setup/](https://www.meta.com/quest/setup/)
 
 ## VR Setup
 
@@ -43,10 +43,9 @@ To enable VR functionality:
 
 ## How to Run
 
-1. Download the latest version from the [Releases](https://github.com/Astrovisio/astrovisio-unity/releases) section.
+1. Download the latest version from the [Releases](https://github.com/Astrovisio/pisa-tutorials/releases) section.
 2. Extract the downloaded `.zip` archive.
 3. Open the extracted folder.
 4. **Double-click on `Astrovisio.exe`** to launch the application.
 
-> ⚠️ Ensure that Docker + AstroAPI are running before launching.  
-> 🎮 VR headset is optional – required only for immersive data visualization.
+> ⚠️ Ensure that Docker + AstroAPI are running before launching.
