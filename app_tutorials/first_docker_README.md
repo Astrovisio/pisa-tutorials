@@ -1,6 +1,6 @@
 # AstroAPI
 
-**AstroAPI** is a Dockerized RESTful API designed to manage and process astrophysical data projects. While it functions as a standalone service, it is primarily intended to offload data processing tasks from Astrovisio's [Unity desktop application](https://github.com/Astrovisio/astrovisio-unity).
+**AstroAPI** is a Dockerized RESTful API designed to manage and process astrophysical data projects. While it functions as a standalone service, it is primarily intended to offload data processing tasks from Astrovisio's [Unity desktop application](https://github.com/Astrovisio/pisa-tutorials/blob/main/app_tutorials/second_unity_README.md).
 This guide will help you set up and run the application.
 
 ## Prerequisites
