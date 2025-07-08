@@ -21,11 +21,11 @@ This guide will help you set up and run the application.
 
 2. **Create a `.env` File**:
 
-   This file should define the path to your local data directory. The data must be stored in a folder named astrodata.
+   This file should define the path to your local data directory. The data must be stored in a folder named astrodata: the overall path should look like /path/to/data/astrodata.
    Example `.env`:
 
    ```
-   VOLUME_SOURCE=/path/to/data/astrodata
+   VOLUME_SOURCE=/path/to/data
    ```
 
    > Docker mounts this folder as a volume, enabling the API to read your data and store its own objects within the same directory.
